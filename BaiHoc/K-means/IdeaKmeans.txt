@@ -1,0 +1,4 @@
+B1 chọn 2 tâm bất kỳ, X,Y, tọa độ bất kỳ
+B2 gán các điểm dữ liệu vào loại thuộc tâm gần nhất
+B3 nếu việc gán tất cả các điểm dữ liệu này không thay đối thì dừng lại, VD: lần 1 điểm A thuộc X nhưng lần 2 thuộc Y thì sẽ tiếp tục thay đổi, còn không thay đổi nữa thì dừng
+B4 cập nhật tâm bằng cách lấy trung bình cộng của tất cả các điểm dữ liệu được gán vào cụm và quay lại bước 2.

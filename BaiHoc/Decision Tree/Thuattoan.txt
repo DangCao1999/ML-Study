@@ -1,0 +1,1 @@
+chia khoảng số thành nhị phân. xác định bằng trung bình cộng

@@ -11,5 +11,6 @@ for word in f.readlines():
         fileWrite.write(word)
     #fileWrite.write(str(word).lower().rstrip()+"\n")
     #print(word)
+
 fileWrite.close()
 f.close()
